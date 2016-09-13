@@ -1,0 +1,7 @@
+[package]
+name = "cryptoquip"
+version = "0.1.0"
+authors = ["Marc Gatti marc.gatti@outlook.com"]
+
+[dependencies]
+conrod = "0.44.0"
